@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-bbpb53.indcuan.sbs/sitemap.xml
